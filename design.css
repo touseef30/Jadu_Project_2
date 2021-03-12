@@ -78,7 +78,7 @@ body{
 
 
 
-@media screen and (max-width: 1800px) and (min-width: 376px) {
+@media screen and (max-width: 1800px) and (min-width: 600px) {
 body{
     background-image: url(images/bg-pattern-top-desktop.svg);
 
@@ -166,7 +166,7 @@ body{
 }
 
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 600px){
     body{
         background-image: url(images/bg-pattern-top-mobile.svg);
     }
